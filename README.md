@@ -16,8 +16,8 @@ This Android app fetches and displays the user's current location (latitude and 
 
 ## 📸 Screenshot
 
-<img src="ss/lc1.png" width="300" alt="Location App Screenshot" />
-<img src="ss/lc2.png" width="300" alt="Location App Screenshot" />
+<img src="screenshots/lc.png" width="300" alt="Location App Screenshot" />
+<img src="screenshots/lc2.png" width="300" alt="Location App Screenshot" />
 
 ---
 
